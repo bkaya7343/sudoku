@@ -1,0 +1,23 @@
+/* Add your styles here */
+#bigger_table {border-style: solid;
+  border-color: black;
+  
+}
+
+#bigger_table tr {
+   border-style: solid;
+  border-color: black;
+}
+.smaller_table td {
+  border-style: solid;
+  border-color: black;
+  background-color: yellow;
+}
+
+td {
+  border-style: solid;
+  border-color: black;
+  padding: 10px;
+  
+}
+
